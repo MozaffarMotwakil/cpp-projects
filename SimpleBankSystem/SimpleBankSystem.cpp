@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <string>
 #include <fstream>
-#include "C:\Users\mozaf\C++ Projects\MyLibrary\MyInputLib.h"
+#include "..\..\MyLibrary\MyInputLib.h"
 
 string ClientsFilePath = "Clients.txt";
 
