@@ -1,11 +1,12 @@
 #pragma once
 
 #include <vector>
+#include <string>
 #include <fstream>
 
 using namespace std;
 
-name namespace MyFileUtilsLib {
+namespace MyFileUtilsLib {
 
     vector<string> LoadDataFromFile(string FilePath) {
         vector<string> vLiens;
@@ -24,6 +25,8 @@ name namespace MyFileUtilsLib {
 
             File.close();
         }
+
+        return vLiens;
     }
 
 }
