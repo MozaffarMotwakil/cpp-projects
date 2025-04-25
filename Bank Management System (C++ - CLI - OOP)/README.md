@@ -1,5 +1,5 @@
 
-# Bank System (OOP) - C++
+# Bank Management System (C++ / CLI / OOP)
 
 A fully integrated banking management system built using Object-Oriented Programming (OOP) principles in C++. This project simulates a real-world banking system in a structured educational manner, reinforcing concepts such as inheritance, encapsulation, abstraction, polymorphism, and clean code organization into distinct layers.
 
@@ -92,23 +92,23 @@ Have an idea to improve or extend the system? Here's how to contribute:
 
 - 🔐 Login Screen
 
-assets/login.png
+![Main Menu](assets/login.png)
 
 - 📋 Main Menu
 
-assets/main_menu.png
+![Main Menu](assets/main_menu.png)
 
 - 💸 Transfer Money Screen
 
-assets/transfer.png
+![Main Menu](assets/transfer.png)
 
 - 📄 Login Logs
 
-assets/logs.png
+![Main Menu](assets/logs.png)
 
 - 💱 Currency Conversion Calculator
 
-assets/currency_calc.png
+![Main Menu](assets/currency_calc.png)
 
 ## License
 
